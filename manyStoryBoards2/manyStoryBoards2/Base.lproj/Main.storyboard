@@ -53,10 +53,21 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <segue destination="hMg-mi-H0m" kind="show" id="qi3-W0-0oM"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="136.80000000000001" y="132.68365817091455"/>
+        </scene>
+        <!--Storyboard Reference-->
+        <scene sceneID="065-zJ-sQp">
+            <objects>
+                <viewControllerPlaceholder storyboardIdentifier="gamesb" id="hMg-mi-H0m" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="tBn-J4-tAl" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="764" y="132"/>
         </scene>
     </scenes>
 </document>
