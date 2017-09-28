@@ -17,6 +17,10 @@ How move between many Storyboards
 	<img src="https://github.com/ginppian/Move-Between-Many-Storyboards/blob/master/imgs/img4.png" width="1280" height="550">
 </p>
 
+<p align="justify">
+	Creamos un nuevo Storyboards.
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Move-Between-Many-Storyboards/blob/master/imgs/img5.png" width="1280" height="550">
 </p>
