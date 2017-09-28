@@ -53,6 +53,10 @@ How move between many Storyboards
 	<img src="https://github.com/ginppian/Move-Between-Many-Storyboards/blob/master/imgs/img9.png" width="1280" height="550">
 </p>
 
+<p align="justify">
+	A nuestro ViewController le asociamos un Storyboards ID
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Move-Between-Many-Storyboards/blob/master/imgs/img10.png" width="1280" height="550">
 </p>
