@@ -25,6 +25,10 @@ How move between many Storyboards
 	<img src="https://github.com/ginppian/Move-Between-Many-Storyboards/blob/master/imgs/img5.png" width="1280" height="550">
 </p>
 
+<p align="justify">
+	Agregamos un boton que ira de MainSB a SettingsSB
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Move-Between-Many-Storyboards/blob/master/imgs/img6.png" width="1280" height="550">
 </p>
